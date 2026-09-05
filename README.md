@@ -19,15 +19,16 @@ Data Science/
 │   ├── Heart Disease Prediction/    # KNN Classifier & Flask Web Application
 │   ├── Medical Insurance Cost/      # Healthcare Charge Regression Model
 │   └── Ford Car Price Prediction/   # Used Vehicle Valuation Regression Model
-└── Data Analytics/                  # Data Exploration, Visualizations & Insights
+└── Data Analytics/                  # SQL Database Querying & Exploratory Data Analysis
+    └── Customer Churn Analysis/     # SQL Database Querying & Customer Retention EDA
 ```
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frameworks & Libraries**: Python, Scikit-Learn, Flask, LangChain, OpenAI GPT-4o, ChromaDB, Streamlit, Pandas, NumPy, Joblib
-- **Core Concepts**: Machine Learning Classification & Regression, Feature Engineering, Model Serialization, RAG Pipelines, LLM Agents
+- **Frameworks & Libraries**: Python, SQL, SQLite3, Scikit-Learn, Flask, LangChain, OpenAI GPT-4o, ChromaDB, Streamlit, Pandas, NumPy, Seaborn, Matplotlib
+- **Core Concepts**: Data Analytics & SQL EDA, Customer Churn Analysis, Machine Learning Classification & Regression, Model Serialization, RAG Pipelines, LLM Agents
 
 ---
 
