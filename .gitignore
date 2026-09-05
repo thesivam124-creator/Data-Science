@@ -1,0 +1,26 @@
+# Environments & Virtual Envs
+.venv/
+venv/
+env/
+myenv/
+gen*env/
+
+# Python Cache & Build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Secrets & Environment Variables
+.env
+*.pem
+*.key
+
+# IDE Settings
+.vscode/
+.idea/
