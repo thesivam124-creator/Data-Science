@@ -1,6 +1,6 @@
 # 📊 Data Science Portfolio
 
-Welcome to my Data Science portfolio repository! This repository showcases projects across **Generative AI**, **Data Analytics**, and **Machine Learning**.
+Welcome to my Data Science portfolio repository! This repository showcases projects across **Generative AI**, **Machine Learning**, and **Data Analytics**.
 
 👤 **GitHub Profile**: [thesivam124-creator](https://github.com/thesivam124-creator)
 
@@ -15,16 +15,19 @@ Data Science/
 │   ├── genai2/                      # RAG Vector Store & ChromaDB Pipeline
 │   ├── genai3/                      # LangChain Runnables & Tool Calling
 │   └── genai4/                      # Multi-Agent Web Research & Writing Pipeline
-├── Data Analytics/                  # Data Exploration, Visualizations & Insights
-└── Machine Learning/                # Supervised/Unsupervised Models & ML Pipelines
+├── Machine Learning/                # Classification & Regression ML Models & Web Apps
+│   ├── Heart Disease Prediction/    # KNN Classifier & Flask Web Application
+│   ├── Medical Insurance Cost/      # Healthcare Charge Regression Model
+│   └── Ford Car Price Prediction/   # Used Vehicle Valuation Regression Model
+└── Data Analytics/                  # Data Exploration, Visualizations & Insights
 ```
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frameworks & Libraries**: Python, LangChain, OpenAI GPT-4o, ChromaDB, Streamlit, Pandas, NumPy, Scikit-Learn
-- **Core Concepts**: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Embeddings, LCEL Runnables, Autonomous Agents
+- **Frameworks & Libraries**: Python, Scikit-Learn, Flask, LangChain, OpenAI GPT-4o, ChromaDB, Streamlit, Pandas, NumPy, Joblib
+- **Core Concepts**: Machine Learning Classification & Regression, Feature Engineering, Model Serialization, RAG Pipelines, LLM Agents
 
 ---
 
